@@ -1,0 +1,8 @@
+name = "music-player"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+[[kv_namespaces]]
+binding = "PLAYLIST"
+id = ""
+preview_id = ""
